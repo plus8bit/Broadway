@@ -1,0 +1,40 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+.header {
+  background: url('../img/broadway.png') no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+h1 {
+  font-size: 70px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+a {
+  color: #fff;
+  font-size: 18px;
+  display: block;
+  margin: 20px 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+p {
+  font-size: 14px;
+}
+
+.item-nyc {
+  font-size: 23px;
+  color: #fff;
+  background: url('../img/broadway.png');
+
+}
